@@ -1,0 +1,11 @@
+# Global defaults
+* @your-org/engineering-leads
+
+# Domain ownership (placeholders)
+/docs/architecture/ @your-org/architecture-team
+/docs/apis/ @your-org/api-platform-team
+/docs/runbooks/ @your-org/sre-team
+/docs/incidents/ @your-org/incident-management-team
+/docs/governance/ @your-org/engineering-ops
+/docs/platforms/ @your-org/platform-engineering
+/docs/teams/ @your-org/engineering-managers
